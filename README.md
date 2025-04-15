@@ -1,1 +1,1 @@
-# intelligent-travel-assistant-system---Llama
+# intelligent travel assistant system - fine-tuning a Llama model
